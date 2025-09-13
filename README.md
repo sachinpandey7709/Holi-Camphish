@@ -1,3 +1,9 @@
+## This Tool Tested On : 
+- Kali Linux
+- Parrot Security OS
+
+---
+
 ## Installing (Kali Linux):
 
 ```bash
